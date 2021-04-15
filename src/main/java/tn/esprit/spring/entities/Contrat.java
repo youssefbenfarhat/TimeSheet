@@ -62,6 +62,7 @@ public class Contrat implements Serializable {
 	}
 
 	//gggggggggggggggggggggggggggggggg
+	//lllllllllllll
 	public int getReference() {
 		return reference;
 	}
